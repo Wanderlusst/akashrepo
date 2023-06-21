@@ -570,7 +570,7 @@ gap: 91px;
 position: absolute;
 width: 1204px;
 height: 163px;
-left: 229px;
+left: 127px;
 top: 779px;
 
 }
@@ -689,7 +689,6 @@ flex-grow: 0;
     }
     footer {
         display: flex;
-        flex-direction: column;
         justify-content: space-between;
         align-items: center;
         padding: 100px;
@@ -697,7 +696,7 @@ flex-grow: 0;
         position: absolute;
         width: 1210px;
         height: 190px;
-        left: -84px;
+        left: 2px;
         top: 60rem;
     }
     .callOfActionWrapper {
