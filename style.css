@@ -672,7 +672,7 @@ flex-grow: 0;
   .navLinks > div:hover .caseSvg svg {
     stroke: #01F38D; /* Change the stroke color of the SVG on hover */
   }
-  @media screen and (max-width: 325px) {
+  @media screen and (max-width: 320px) {
     section {
         display: flex;
         flex-direction: column;
