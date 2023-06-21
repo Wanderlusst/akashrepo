@@ -260,7 +260,7 @@ gap: 40px;
 position: absolute;
 width: 1512px;
 height: 378px;
-left: 70px;
+left: 0px;
 top: 246.5px;
 }
 
@@ -634,6 +634,7 @@ flex-grow: 0;
         height: 378px;
         top: 246.5px;
         align-items: stretch;
+        left: 70px;
     }
     footer {
         display: flex;
