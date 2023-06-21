@@ -726,8 +726,5 @@ flex-grow: 0;
         margin: 6rem;
         height: 48px;
     }
-    body {
-        zoom: 0.5; /* Adjust the zoom level as needed */
-      }
 }
   
